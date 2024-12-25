@@ -1,3 +1,5 @@
+-- Data Explorartion   
+-- we used: join, CTE, TMP table, Case when , Windows Functions, Creating view, aggregate Functions.
 
 Select *
 From protfolioproject..CovidDeaths1

@@ -143,7 +143,7 @@ where t1.industry is null
  alter table layoffs_stanging2
  drop column row_num;
  
- -- extra work with CTEcoviddeaths
+ -- extra work with CTE
  select max(total_laid_off),max(percentage_laid_off)
  from layoffs_stanging2;
  
